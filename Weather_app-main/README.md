@@ -1,8 +1,3 @@
-## Try it out : https://nikisweatherapp.netlify.app/
-
-The project is a simple weather application that uses the open weather app api to make requests and get the current weather information of any city along wiht a 5 day forecast.
-
-
 
 ## Available Scripts
 
